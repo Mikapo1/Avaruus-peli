@@ -55,14 +55,6 @@
             }
         },
         {
-            "Key": "3d333bc8-f19b-44cf-af19-e6d2606c6a1c",
-            "Value": {
-                "id": "6c9a22b6-116f-4840-b3e0-a502c302ae90",
-                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
             "Key": "5102dd8d-6f33-4264-bcb7-d56516d4a47e",
             "Value": {
                 "id": "edac1335-bdae-47de-9575-8f4513e510e2",
@@ -92,6 +84,14 @@
                 "id": "c6e29799-31f7-41b2-a85f-1aa3b3aec324",
                 "resourcePath": "views\\55599715-5c58-4895-a72e-7d70daa5bbb5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5b5cd179-9263-4176-b493-9af99815434b",
+            "Value": {
+                "id": "d55b282a-5968-4a06-8248-94bc4ffb5c41",
+                "resourcePath": "tilesets\\reunat\\reunat.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
