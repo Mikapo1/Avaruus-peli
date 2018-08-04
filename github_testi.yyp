@@ -31,11 +31,19 @@
     },
     "resources": [
         {
-            "Key": "18a0587f-ab64-4037-8cb0-901dc6776fa9",
+            "Key": "1e97e32f-d89b-446d-85c9-1eeab90a222d",
             "Value": {
-                "id": "2ff503e4-9ad9-4c94-add0-03ef1760b9e8",
-                "resourcePath": "objects\\kuutio\\kuutio.yy",
-                "resourceType": "GMObject"
+                "id": "161bc11f-a191-4dc2-8083-e754cb94471d",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "21088461-1a98-4577-81ee-cd246b231ebf",
+            "Value": {
+                "id": "1bc5feb0-805d-4829-a813-f06d6a6b0622",
+                "resourcePath": "sprites\\wall\\wall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -44,6 +52,14 @@
                 "id": "e29bc8d4-3330-4108-81e6-8345f0072451",
                 "resourcePath": "views\\2f926d51-fbb6-4da0-a6a5-288ffdb11ef6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3d333bc8-f19b-44cf-af19-e6d2606c6a1c",
+            "Value": {
+                "id": "6c9a22b6-116f-4840-b3e0-a502c302ae90",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -79,14 +95,6 @@
             }
         },
         {
-            "Key": "5d64cf98-9e45-4caf-831f-8b87c96f4dbd",
-            "Value": {
-                "id": "a08109a7-3336-425e-b3e3-05eaf1cf5ec9",
-                "resourcePath": "rooms\\a\\a.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "82b3eb02-1f77-4804-b213-b2610670045f",
             "Value": {
                 "id": "26f4d630-8f4b-4f15-b32d-ac9b3f8fe259",
@@ -108,14 +116,6 @@
                 "id": "61514ab6-c336-44fa-a0c8-342c7ab07efb",
                 "resourcePath": "views\\867f48fd-38cd-4a55-9452-58dc6bf04ca0.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "95994800-375e-417c-a485-00018eee546b",
-            "Value": {
-                "id": "76f79cfb-d6f4-4adc-9536-c87cd8036393",
-                "resourcePath": "objects\\pallo\\pallo.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -156,6 +156,14 @@
                 "id": "a63919b5-9a12-43c3-83a4-c16df7c46fb1",
                 "resourcePath": "views\\b62af8ac-a8b3-4959-a191-7b62e7f75e86.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c42e99b9-d7ba-470b-be2a-db58bd0ad100",
+            "Value": {
+                "id": "93746d9f-4cf8-4fd5-8f51-52aaf346e014",
+                "resourcePath": "objects\\object0\\object0.yy",
+                "resourceType": "GMObject"
             }
         },
         {
